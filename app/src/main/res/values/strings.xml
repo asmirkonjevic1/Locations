@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Locations</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gps_network_not_enabled">Gps Network Not Enabled</string>
+    <string name="open_location_settings">Enable</string>
+    <string name="Cancel">Cancel</string>
+</resources>
